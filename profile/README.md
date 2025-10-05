@@ -1,10 +1,8 @@
 # Gnosis
 
 **OCR + VLM Pipeline Evaluation**  
-Maintained by KTH AI Society’s Development Team Gnosis
-
-Stack:
-
+Maintained by KTH AI Society’s Development Team Gnosis.
+KTHAIS: https://kthais.com/
 
 ---
 
