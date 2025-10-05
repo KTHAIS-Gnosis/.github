@@ -7,7 +7,7 @@ Maintained by KTH AI Society’s Development Team Gnosis
 
 ## Mission & Scope
 
-We’re building and benchmarking **Visual Language Models (VLMs)** + **Optical Character Recognition (OCR)** systems to *extract structured data* from images of graphs, charts, and well logs — with a special focus on **petroleum & gas** domain visualizations.
+We’re building and benchmarking **Visual Language Models (VLMs)** + **Optical Character Recognition (OCR)** systems to *extract structured data* from images of graphs, charts, and well logs, with a special focus on **petroleum & gas** domain visualizations.
 
 Our goals:
 - Evaluate the strengths and failure modes of different VLM/OCR methods on graph/plot images  
@@ -18,10 +18,8 @@ Our goals:
 ---
 
 ## Resources & Data
-
-- FactPages — Wellbore attributes & logs (Norwegian Offshore Directorate) :contentReference[oaicite:0]{index=0}  
-- Example: Wellbore 6705/10-1 — logs, metadata, plots, etc. :contentReference[oaicite:1]{index=1}  
-- Public microfossil image dataset (ancillary domain) :contentReference[oaicite:2]{index=2}  
+- All data: https://factpages.sodir.no/no/wellbore/TableView/AllLong
+- Docs: https://factpages.sodir.no/no/wellbore/TableView/With/Documents
 
 ---
 
@@ -29,6 +27,6 @@ Our goals:
 
 - In the petroleum & gas space, much of the data sits trapped in figures and scanned reports  
 - Automated tools can unlock large-scale digitization, trend analysis, and downstream analytics  
-- Our benchmark reveals empirical strengths/weaknesses: where VLMs hallucinate, misread, or misalign axes  
+- Our benchmark reveals empirical strengths/weaknesses: where LVLMs hallucinate, misread, or misalign axes  
 
 ---
