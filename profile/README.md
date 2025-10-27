@@ -30,5 +30,3 @@ Our goals:
 - Our benchmark reveals empirical strengths/weaknesses: where LVLMs hallucinate, misread, or misalign axes  
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/KTHAIS-Gnosis/github-readme-stats)
